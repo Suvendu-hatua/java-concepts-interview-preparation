@@ -1,4 +1,4 @@
-# Java Multithreading: Comprehensive Revision Guide (with More Examples & Explanations)
+# Java Multithreading: Comprehensive Revision Guide
 
 ---
 
