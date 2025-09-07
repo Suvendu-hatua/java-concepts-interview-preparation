@@ -1,5 +1,4 @@
 # 100+ Tricky Java Multithreading Interview Questions
-## With Clear, Detailed Explanations and Examples
 
 ---
 
